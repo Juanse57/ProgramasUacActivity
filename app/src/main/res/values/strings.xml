@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProgramasUacActivity</string>
+    <string name="titulo_uac">Programas y Facultades - UAC</string>
+    <string name="img_programa_desc">Imagen del programa académico</string>
+    <string name="txt_programa_placeholder">Nombre del Programa</string>
+    <string name="txt_facultad_placeholder">Facultad</string>
+    <string name="txt_descripcion_placeholder">Descripción del programa</string>
+</resources>
